@@ -1,0 +1,2 @@
+it is news page!
+- we are using gitkraken free version
